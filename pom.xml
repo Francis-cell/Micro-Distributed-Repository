@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Micro-Distributed-Demos</module>
+        <module>Multi-Person-Oline-Chat</module>
     </modules>
 
     <properties>
